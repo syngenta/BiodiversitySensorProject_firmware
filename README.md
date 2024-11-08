@@ -26,7 +26,7 @@ Installation
 1. Clone the project repository to your local machine:
    .. code-block:: bash
 
-      git clone https://github.com/SumanKumar891/Biodiversity_sensor.git
+      git clone https://github.com/syngenta/BiodiversitySensorProject_firmware.git 
 
 2. Set up the environment and dependencies:
    - Ensure Zephyr RTOS is installed and configured for **nRF5340DK**.
